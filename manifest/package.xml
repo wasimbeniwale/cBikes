@@ -21,7 +21,7 @@
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>*</members>
+        <members>cBikes</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
@@ -33,11 +33,11 @@
         <name>StaticResource</name>
     </types>
     <types>
-        <members>*</members>
+        <members>cBikes</members>
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>*</members>
+        <members>cBikes</members>
         <name>FlexiPage</name>
     </types>
     <version>48.0</version>

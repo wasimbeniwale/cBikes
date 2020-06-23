@@ -9,6 +9,9 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <componentInstances>
+            <componentName>cBikesApp</componentName>
+        </componentInstances>
         <name>middle</name>
         <type>Region</type>
     </flexiPageRegions>
